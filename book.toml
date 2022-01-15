@@ -1,0 +1,19 @@
+[book]
+authors = [
+    "Markus Wiegand <mail@morphy2k.dev>",
+    "Andrei Begu <abegu91@gmail.com>",
+]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tarkov Ballistics Handbook"
+
+[output.html]
+default-theme = "coal"
+preferred-dark-theme = "coal"
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
+git-repository-url = "https://github.com/tarkov-ballistics/handbook"
+git-repository-icon = "fa-github"
+cname = "book.tarkov-ballistics.com"
