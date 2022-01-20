@@ -28,7 +28,7 @@ Specifies the number of health points that are deducted when a body part is hit.
 
 Is given in absolute or relative numbers.
 
-If absolute, then it indicates the number of durability points that are deducted when the projectile hits the armor.
+If absolute, then it indicates the number of [durability](#armor-durability) points that are deducted when the projectile hits the armor.
 
 If relative, then the absolute value is calculated from the [penetration power](#penetration-power), the [armor material](#armor-material), the [armor class](#armor-class) and whether the projectile has penetrated the armor or not.
 
