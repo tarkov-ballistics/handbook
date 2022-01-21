@@ -7,6 +7,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Tarkov Ballistics Handbook"
+description = "Glossary and guides on various aspects of ballistics of Escape from Tarkov"
 
 [output.html]
 default-theme = "coal"
