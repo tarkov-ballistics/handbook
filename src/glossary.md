@@ -22,7 +22,7 @@ More details on [Wikipedia](https://en.wikipedia.org/wiki/Ballistic_coefficient)
 
 ### Damage
 
-Specifies the number of health points that are deducted when a body part is hit.
+Specifies the number of health points that are deducted when a body part is hit. If a body part has less health points than is deducted, the excess damage is distributed to other body parts.
 
 ### Armor Damage
 
